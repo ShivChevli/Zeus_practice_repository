@@ -1,10 +1,13 @@
-# Practice Repository 
+# This Repositury Contain some Small component
 
-## command to practices 
+1. Show hide button Components
+2. Navigation bar with little tweak.
+
+## command to practices
 
 - git clone
 - git add .
-- git commit 
-- git push 
+- git commit
+- git push
 - git fetch
-- git pull 
+- git pull

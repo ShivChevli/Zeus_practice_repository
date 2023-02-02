@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+    background: navy;
+    justify-content: center;
+    align-items: center;   
+}
+nav h1 ,a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: 600;
+    margin: .5em;
+}
+@media screen and (min-width:1000px) {
+    nav{
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
+input {
+    margin: .5em 2em;
+    font-size: 1.2em;
+}
